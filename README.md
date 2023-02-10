@@ -1,1 +1,1 @@
-# pytest_proj2
+# Проект для знакомства с unittest
